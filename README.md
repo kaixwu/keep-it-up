@@ -10,8 +10,8 @@ A student Assignment & Deadline Manager built using **Python Tkinter** and **SQL
 - Integrated Calendar View
 
 📁 Folder Structure
-main.py → Launches the app
-/screens → Tkinter windows (e.g. calendar.py, tasks.py)
-/db → SQLite DB connection
-/utils → Helper logic (date formatting, etc.)
-/assets → Icons, logos
+- /screens → Tkinter windows (e.g. calendar.py, tasks.py)
+- /db → SQLite database connection and schema
+- /utils → Helper functions (e.g. date formatting)
+- /assets → App icons, images
+- main.py → Main Tkinter launcher window
